@@ -1,0 +1,16 @@
+.back
+{
+    border:1px solid black;
+    margin:75px 240px 75px;
+    text-align:center;
+    width:800px;
+    height: 460px;
+    background:black;
+    padding-left:200px;
+}
+body
+{ background-image: url("maxresdefault.jpg");
+background-color: red;
+    /* opacity:0.5;
+    filter:alpha(opacity=50); */
+}
